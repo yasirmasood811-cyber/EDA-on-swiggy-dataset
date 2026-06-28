@@ -118,31 +118,6 @@ Some of the insights that can be obtained from this analysis include:
 
 ---
 
-## 📁 Project Structure
-
-```
-Swiggy-Data-Analysis/
-│
-├── swiggy dataset.ipynb
-├── swiggy_data.xlsx
-├── README.md
-```
-
----
-
-## 🚀 Future Improvements
-
-Possible enhancements for this project include:
-
-* Building an interactive Power BI or Tableau dashboard
-* Predicting future sales using machine learning
-* Customer segmentation
-* Restaurant performance ranking
-* Demand forecasting
-* Geographic sales visualization using maps
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates a complete data analysis workflow, starting from data cleaning and preprocessing to visualization and business insight generation. It showcases how Python can be used to analyze real-world food delivery data and uncover trends that support better business decisions.
