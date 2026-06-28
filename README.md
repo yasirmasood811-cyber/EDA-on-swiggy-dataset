@@ -1,6 +1,6 @@
-# 🍽️ Swiggy Sales Data Analysis
+#  Swiggy Sales Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing Swiggy food order data to understand customer ordering patterns, restaurant performance, sales trends, and revenue distribution. The analysis was performed using Python in Jupyter Notebook with the help of popular data analysis and visualization libraries.
 
@@ -8,7 +8,7 @@ The goal of this project is to transform raw food delivery data into meaningful 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information related to Swiggy food orders, including:
 
@@ -64,7 +64,7 @@ Performed detailed analysis on:
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The notebook calculates several important business metrics, including:
 
@@ -77,7 +77,7 @@ The notebook calculates several important business metrics, including:
 
 ---
 
-## 📉 Visualizations
+##  Visualizations
 
 The project includes multiple visualizations to better understand the data:
 
@@ -93,7 +93,7 @@ The project includes multiple visualizations to better understand the data:
 
 ---
 
-## 🍗 Food Classification
+##  Food Classification
 
 One interesting part of this project is classifying dishes into:
 
@@ -104,7 +104,7 @@ This was done using keyword matching and fuzzy string matching with the RapidFuz
 
 ---
 
-## 🔍 Insights Generated
+##  Insights Generated
 
 Some of the insights that can be obtained from this analysis include:
 
@@ -118,13 +118,13 @@ Some of the insights that can be obtained from this analysis include:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates a complete data analysis workflow, starting from data cleaning and preprocessing to visualization and business insight generation. It showcases how Python can be used to analyze real-world food delivery data and uncover trends that support better business decisions.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Yasir Masood**
 
